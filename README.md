@@ -14,7 +14,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
 
-#### Programming Languages & Fameworks
+#### Programming Languages & Frameworks
 
 ![Static Badge](https://img.shields.io/badge/Dart-%20?style=flat-square&logo=dart&logoColor=white&color=0175C2)
 ![Static Badge](https://img.shields.io/badge/Flutter-%20?style=flat-square&logo=flutter&logoColor=white&color=02569B)
