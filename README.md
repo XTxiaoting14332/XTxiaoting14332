@@ -24,7 +24,7 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -32,7 +32,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 45.7 kB Used in GitHub's Storage 
+> 📦 45.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 419 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,16 +69,20 @@ Sunday                   217 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     2 hrs 49 mins       █████████████████████████   100.00 % 
+Dart                     3 hrs 30 mins       ████████████████████████░   96.20 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nonebot-flutter-gui      2 hrs 49 mins       █████████████████████████   100.00 % 
+nonebot-flutter-gui      3 hrs 30 mins       ████████████████████████░   96.20 % 
+nbgui-api                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Linux                    2 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +102,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 18:41:53 UTC
+ Last Updated on 02/09/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
