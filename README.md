@@ -24,7 +24,7 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -33,6 +33,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 45.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 419 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,16 +69,16 @@ Sunday                   221 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     31 mins             █████████████████████████   100.00 % 
+Dart                     5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nonebot-flutter-gui      31 mins             █████████████████████████   100.00 % 
+nonebot-flutter-gui      5 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +98,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2024 18:44:43 UTC
+ Last Updated on 18/09/2024 18:44:18 UTC
 <!--END_SECTION:waka-->
