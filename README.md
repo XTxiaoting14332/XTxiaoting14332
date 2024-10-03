@@ -24,7 +24,7 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,8 +33,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 45.8 kB Used in GitHub's Storage 
- > 
-> 🏆 440 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,5 +101,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 18:46:56 UTC
+ Last Updated on 03/10/2024 18:46:02 UTC
 <!--END_SECTION:waka-->
