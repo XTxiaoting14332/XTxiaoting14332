@@ -67,19 +67,16 @@ Sunday                   226 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     4 hrs 36 mins       █████████████████████████   98.42 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nonebot-flutter-webui-age4 hrs 40 mins       █████████████████████████   99.82 % 
-nonebot-flutter-gui      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +96,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2024 18:46:16 UTC
+ Last Updated on 11/10/2024 18:45:20 UTC
 <!--END_SECTION:waka-->
