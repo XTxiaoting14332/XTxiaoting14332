@@ -34,6 +34,8 @@
 
 > 📦 45.9 kB Used in GitHub's Storage 
  > 
+> 🏆 481 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -102,5 +104,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:46:53 UTC
+ Last Updated on 16/11/2024 18:44:03 UTC
 <!--END_SECTION:waka-->
