@@ -34,6 +34,8 @@
 
 > 📦 46.4 kB Used in GitHub's Storage 
  > 
+> 🏆 67 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -76,8 +78,8 @@ Markdown                 17 mins             █░░░░░░░░░░�
 VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nonebot-flutter-webui-das3 hrs 59 mins       ██████████████░░░░░░░░░░░   57.68 % 
-nonebot-flutter-webui-age2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.81 % 
+nonebot-flutter-webui-das3 hrs 59 mins       ██████████████░░░░░░░░░░░   57.67 % 
+nonebot-flutter-webui-age2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
 Unknown Project          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 webui-doc                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 nonebot-plugin-llm-jadefo0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
@@ -103,5 +105,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 18:46:13 UTC
+ Last Updated on 23/01/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
