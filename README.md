@@ -34,6 +34,8 @@
 
 > 📦 46.4 kB Used in GitHub's Storage 
  > 
+> 🏆 92 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -67,21 +69,16 @@ Sunday                   323 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     1 hr 34 mins        ██████████████████████░░░   88.28 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nonebot-flutter-webui-das1 hr 31 mins        █████████████████████░░░░   84.85 % 
-nonebot-plugin-bot-tap   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-nonebot-flutter-gui      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +98,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 18:45:06 UTC
+ Last Updated on 08/02/2025 18:41:49 UTC
 <!--END_SECTION:waka-->
