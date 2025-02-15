@@ -24,11 +24,9 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-325.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-326.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,45 +38,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-🌆 Daytime                355 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌃 Evening                282 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌙 Night                  76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Tuesday                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Thursday                 59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Friday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Saturday                 189 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Sunday                   324 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -96,5 +55,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:44:54 UTC
+ Last Updated on 15/02/2025 18:41:52 UTC
 <!--END_SECTION:waka-->
