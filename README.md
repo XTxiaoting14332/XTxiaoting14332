@@ -24,9 +24,9 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327.5%20thousand%20lines%20of%20code-blue)
 
@@ -67,16 +67,18 @@ Sunday                   339 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 min               ███████████░░░░░░░░░░░░░░   42.14 % 
+YAML                     1 min               ██████████░░░░░░░░░░░░░░░   41.53 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+webui                    4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +98,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:44:10 UTC
+ Last Updated on 09/03/2025 18:38:43 UTC
 <!--END_SECTION:waka-->
