@@ -24,7 +24,7 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,8 +33,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 46.5 kB Used in GitHub's Storage 
- > 
-> 🏆 158 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +67,20 @@ Sunday                   360 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 34 mins        ██████████████████████░░░   86.10 % 
+Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nonebot-plugin-sideload  1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:46:44 UTC
+ Last Updated on 12/05/2025 18:50:44 UTC
 <!--END_SECTION:waka-->
