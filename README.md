@@ -24,7 +24,7 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,6 +33,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 46.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +69,17 @@ Sunday                   368 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 57 mins       █████████████████████████   99.78 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Java                     4 hrs 23 mins       █████████████████████████   99.80 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 58 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zobyic-RPG               3 hrs 58 mins       █████████████████████████   100.00 % 
+Zobyic-RPG               4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:55:55 UTC
+ Last Updated on 12/08/2025 18:54:17 UTC
 <!--END_SECTION:waka-->
