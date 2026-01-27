@@ -69,21 +69,16 @@ Sunday                   385 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 mins             ██████████████░░░░░░░░░░░   55.23 % 
-Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Dart                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-esp32-ai-backend         36 mins             █████████████████████████   99.56 % 
-nonebot-agent            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +98,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 19:01:56 UTC
+ Last Updated on 27/01/2026 19:04:42 UTC
 <!--END_SECTION:waka-->
