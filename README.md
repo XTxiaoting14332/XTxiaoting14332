@@ -8,10 +8,20 @@
 
 #### Systems
 
-![Static Badge](https://img.shields.io/badge/Ubuntu-%20?style=flat-square&logo=ubuntu&logoColor=white&color=E34F26)
+![Static Badge](https://img.shields.io/badge/Debian%2013-%20?style=flat-square&logo=debian&logoColor=white&color=A81D33)
+![Static Badge](https://img.shields.io/badge/Windows11-%20?style=flat-square&logo=microsoft&logoColor=white&color=blue)
+
+#### Devices
+![](https://img.shields.io/badge/Google_Pixel_7-f5010c?style=flat-square&logo=google&logoColor=ffffff)
+![](https://img.shields.io/badge/Google_Pixel_Watch-fd4900?style=flat-square&logo=google&logoColor=ffffff)
+
+![](https://img.shields.io/badge/AMD_Ryzen_7730U-d3491e?style=flat-square&logo=amd&logoColor=ffffff)
+
 
 #### Toolkits & IDEs
 
+![Static Badge](https://img.shields.io/badge/Android%20Studio-%20?style=flat-square&logo=androidstudio&logoColor=white&color=3DDC84)
+![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-%20?style=flat-square&logo=intellijidea&logoColor=white&color=000000)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
 
 #### Programming Languages & Frameworks
@@ -19,6 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Dart-%20?style=flat-square&logo=dart&logoColor=white&color=0175C2)
 ![Static Badge](https://img.shields.io/badge/Flutter-%20?style=flat-square&logo=flutter&logoColor=white&color=02569B)
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=E7A781)
+![Static Badge](https://img.shields.io/badge/Java-%20?style=flat-square&logo=java&logoColor=white&color=FF8C00)
 ![Static Badge](https://img.shields.io/badge/Bash%20Shell-%20?style=flat-square&logo=shell&logoColor=white&color=49D868)
 
 ### Stats
