@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372.77%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -80,20 +80,16 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 34 mins       █████████████████████████   99.90 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 10 mins       ███████████████░░░░░░░░░░   60.75 % 
-VS Code                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   39.25 % 
+IntelliJ IDEA            9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zobyic-RPG               3 hrs 32 mins       █████████████████████████   98.74 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Zobyic-RPG               9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,5 +109,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 19:11:57 UTC
+ Last Updated on 17/02/2026 19:29:50 UTC
 <!--END_SECTION:waka-->
