@@ -35,6 +35,8 @@
 ### Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.67%20thousand%20lines%20of%20code-blue?style=flat)
@@ -43,14 +45,57 @@
 
 > 📦 49.5 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                222 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌆 Daytime                429 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌃 Evening                445 commits         █████████░░░░░░░░░░░░░░░░   37.36 % 
+🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Wednesday                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Thursday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Saturday                 225 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Sunday                   379 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     1 hr 16 mins        █████████████████████████   98.63 % 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 5 mins         █████████████████████░░░░   83.83 % 
+Unknown Editor           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🐱‍💻 Projects: 
+java                     1 hr 16 mins        █████████████████████████   98.63 % 
+nwagent                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+💻 Operating System: 
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -68,5 +113,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:57:13 UTC
+ Last Updated on 29/05/2026 20:59:12 UTC
 <!--END_SECTION:waka-->
