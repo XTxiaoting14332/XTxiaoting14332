@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.67%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -80,20 +80,17 @@ Sunday                   379 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 16 mins        █████████████████████████   98.63 % 
-Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Java                     1 hr 16 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 5 mins         █████████████████████░░░░   83.83 % 
-Unknown Editor           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+IntelliJ IDEA            1 hr 5 mins         █████████████████████░░░░   84.99 % 
+Unknown Editor           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 
 🐱‍💻 Projects: 
-java                     1 hr 16 mins        █████████████████████████   98.63 % 
-nwagent                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+java                     1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,5 +110,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 20:59:12 UTC
+ Last Updated on 30/05/2026 19:49:48 UTC
 <!--END_SECTION:waka-->
