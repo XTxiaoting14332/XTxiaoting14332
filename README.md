@@ -23,6 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-%20?style=flat-square&logo=androidstudio&logoColor=white&color=3DDC84)
 ![Static Badge](https://img.shields.io/badge/Intellij%20IDEA-%20?style=flat-square&logo=intellijidea&logoColor=white&color=000000)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=visualstudiocode&logoColor=white&color=blue)
+[![Zed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)
 
 #### Programming Languages & Frameworks
 
@@ -31,6 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=E7A781)
 ![Static Badge](https://img.shields.io/badge/Java-%20?style=flat-square&logo=java&logoColor=white&color=FF8C00)
 ![Static Badge](https://img.shields.io/badge/Bash%20Shell-%20?style=flat-square&logo=shell&logoColor=white&color=49D868)
+
 
 ### Stats
 
