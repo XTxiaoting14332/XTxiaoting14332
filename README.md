@@ -37,6 +37,8 @@
 ### Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.21%20thousand%20lines%20of%20code-blue?style=flat)
@@ -53,6 +55,56 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+🌆 Daytime                488 commits         █████████░░░░░░░░░░░░░░░░   36.04 % 
+🌃 Evening                510 commits         █████████░░░░░░░░░░░░░░░░   37.67 % 
+🌙 Night                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  196 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Thursday                 119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Saturday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Sunday                   409 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Dart                     7 hrs 12 mins       █████████████████░░░░░░░░   66.35 % 
+CSS                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+🔥 Editors: 
+Zed                      6 hrs 31 mins       ███████████████░░░░░░░░░░   60.05 % 
+Antigravity Desktop      1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Codex CLI                1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Claude Code              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Antigravity CLI          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+
+🐱‍💻 Projects: 
+ai-proxy                 6 hrs 55 mins       ████████████████░░░░░░░░░   63.70 % 
+bybit-bot                3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+demo                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+💻 Operating System: 
+Linux                    10 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -70,5 +122,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:57:14 UTC
+ Last Updated on 25/07/2026 19:44:50 UTC
 <!--END_SECTION:waka-->
