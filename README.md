@@ -82,27 +82,27 @@ Sunday                   409 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     7 hrs 12 mins       █████████████████░░░░░░░░   66.35 % 
-CSS                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Dart                     10 hrs 8 mins       ██████████████████░░░░░░░   70.79 % 
+CSS                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Zed                      6 hrs 31 mins       ███████████████░░░░░░░░░░   60.05 % 
-Antigravity Desktop      1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Codex CLI                1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Claude Code              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Antigravity CLI          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Zed                      6 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
+Claude Code              2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Codex CLI                2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Antigravity Desktop      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 6 hrs 55 mins       ████████████████░░░░░░░░░   63.70 % 
-bybit-bot                3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-demo                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+ai-proxy                 6 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.34 % 
+bybit-bot                6 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.20 % 
+Unknown Project          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+demo                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Linux                    10 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:44:50 UTC
+ Last Updated on 26/07/2026 19:45:22 UTC
 <!--END_SECTION:waka-->
