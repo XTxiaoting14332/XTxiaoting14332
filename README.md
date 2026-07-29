@@ -37,6 +37,10 @@
 ### Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2046%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.21%20thousand%20lines%20of%20code-blue?style=flat)
@@ -80,53 +84,53 @@ Sunday                   409 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     10 hrs 17 mins      ███████████████░░░░░░░░░░   61.85 % 
-CSS                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Dart                     8 hrs 42 mins       █████████████░░░░░░░░░░░░   52.92 % 
+CSS                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+HTML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-Zed                      6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
-Codex CLI                4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Claude Code              3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Antigravity Desktop      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Zed                      6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
+Codex CLI                4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Claude Code              2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Antigravity Desktop      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🐱‍💻 Projects: 
-bybit-bot                8 hrs 35 mins       █████████████░░░░░░░░░░░░   51.62 % 
-ai-proxy                 6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
-Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-demo                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+bybit-bot                9 hrs 36 mins       ███████████████░░░░░░░░░░   58.40 % 
+ai-proxy                 5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Unknown Project          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+demo                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 nightwind                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 29 mins (99.15%)
+⏱ AI Coding Time: 16 hrs 20 mins (99.38%)
 
-✍️ 4,587 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,243 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 66,787,164 Input Tokens, 346,685 Output Tokens
+🔤 186,312,159 Input Tokens, 926,263 Output Tokens
 
-💵 $336.35 Estimated AI Cost This Week
+💵 $935.81 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 253 AI Prompts
+🧠 42 AI Sessions, 254 AI Prompts
 
-GPT                      1,695 lines         ███████████░░░░░░░░░░░░░░   43.99 % 
-Opus                     1,053 lines         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Gemini                   957 lines           ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Antigravity-Desktop      148 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+GPT                      2,722 lines         ███████████████░░░░░░░░░░   60.42 % 
+Opus                     1,053 lines         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Gemini                   730 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -135,7 +139,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ```text
 Python                   11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
 Dart                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Shell                    6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Shell                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
@@ -147,5 +151,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:03:13 UTC
+ Last Updated on 29/07/2026 19:53:45 UTC
 <!--END_SECTION:waka-->
