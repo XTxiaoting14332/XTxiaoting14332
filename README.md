@@ -37,9 +37,9 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,83 +57,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-🌆 Daytime                488 commits         █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌃 Evening                510 commits         █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌙 Night                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  196 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Thursday                 119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Saturday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Sunday                   409 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Dart                     8 hrs 42 mins       █████████████░░░░░░░░░░░░   52.92 % 
-CSS                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-HTML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-
-🔥 Editors: 
-Zed                      6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
-Codex CLI                4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-Claude Code              2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Antigravity Desktop      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-
-🐱‍💻 Projects: 
-bybit-bot                9 hrs 36 mins       ███████████████░░░░░░░░░░   58.40 % 
-ai-proxy                 5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
-Unknown Project          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-demo                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-nightwind                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Linux                    16 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 20 mins (99.38%)
-
-✍️ 5,243 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 186,312,159 Input Tokens, 926,263 Output Tokens
-
-💵 $935.81 Estimated AI Cost This Week
-
-🧠 42 AI Sessions, 254 AI Prompts
-
-GPT                      2,722 lines         ███████████████░░░░░░░░░░   60.42 % 
-Opus                     1,053 lines         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Gemini                   730 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -151,5 +74,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:53:45 UTC
+ Last Updated on 30/07/2026 20:04:38 UTC
 <!--END_SECTION:waka-->
