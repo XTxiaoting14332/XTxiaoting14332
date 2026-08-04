@@ -32,6 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=E7A781)
 ![Static Badge](https://img.shields.io/badge/Java-%20?style=flat-square&logo=java&logoColor=white&color=FF8C00)
 ![Static Badge](https://img.shields.io/badge/Bash%20Shell-%20?style=flat-square&logo=shell&logoColor=white&color=49D868)
+![Static Badge](https://img.shields.io/badge/Go-%20?style=flat-square&logo=go&logoColor=white&color=00ADD8)
 
 
 ### Stats
