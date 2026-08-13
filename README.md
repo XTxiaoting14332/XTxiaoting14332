@@ -38,44 +38,44 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387.91%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.8 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 146 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-🌆 Daytime                482 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌃 Evening                501 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
-🌙 Night                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+🌞 Morning                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌆 Daytime                480 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                495 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Thursday                 117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Friday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Saturday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Sunday                   407 commits         ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Monday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Thursday                 117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Friday                   109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Saturday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Sunday                   406 commits         ████████░░░░░░░░░░░░░░░░░   30.53 % 
 ```
 
 
@@ -85,62 +85,62 @@ Sunday                   407 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       8 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-Other                    6 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-TOML                     4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-KDL                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Go                       8 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+Other                    6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+KDL                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Zed                      23 hrs 49 mins      ███████████████████████░░   92.92 % 
-Antigravity CLI          1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Exec Wakatime            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Zed                      19 hrs 59 mins      ███████████████████████░░   90.67 % 
+Antigravity CLI          1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Antigravity Desktop      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-nightwind                7 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-bybit-bot                2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-ssh-tavern               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-screens.go               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Unknown Project          8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.46 % 
+nightwind                5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+ssh-tavern               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+screens.go               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+hatch-pet-home-nightwind-1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Linux                    25 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 17 mins (83.01%)
+⏱ AI Coding Time: 17 hrs 41 mins (80.27%)
 
-✍️ 712 lines written by AI, 249 lines written by hand (74.09% AI-written)
+✍️ 344 lines written by AI, 249 lines written by hand (58.01% AI-written)
 
-🔤 73,464,874 Input Tokens, 1,489,518 Output Tokens
+🔤 11,117,790 Input Tokens, 1,327,048 Output Tokens
 
-💵 $750.43 Estimated AI Cost This Week
+💵 $641.62 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 611 AI Prompts
+🧠 62 AI Sessions, 537 AI Prompts
 
-Deepseek                 601 lines           █████████████████░░░░░░░░   69.32 % 
-Gemini                   266 lines           ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Gemini                   486 lines           ████████████████████████░   96.43 % 
+Deepseek                 18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.09% of written lines came from AI
-📚 Verbose Prompter — average 5,213 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 24.08% of changed lines were hand-edited
+⚖️ Balanced with AI — 58.01% of written lines came from AI
+📚 Verbose Prompter — average 5,010 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 35.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
-Dart                     9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Dart                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
 Shell                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
@@ -151,5 +151,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:38:48 UTC
+ Last Updated on 13/08/2026 19:35:46 UTC
 <!--END_SECTION:waka-->
