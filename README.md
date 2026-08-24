@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -85,54 +85,54 @@ Sunday                   400 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
-JavaScript               5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-KDL                      4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Kotlin                   2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Java                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    10 hrs 47 mins      █████████████░░░░░░░░░░░░   52.27 % 
+KDL                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Kotlin                   2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JavaScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Java                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 46 mins      ███████████░░░░░░░░░░░░░░   45.80 % 
-VS Code                  9 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.04 % 
-Antigravity CLI          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Zed                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Antigravity Desktop      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+IntelliJ IDEA            12 hrs 49 mins      ████████████████░░░░░░░░░   62.07 % 
+VS Code                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Antigravity CLI          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Zed                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-minecraft-mcp            3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-BookSaleManager          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-MetaStore.kt             2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-MaterialRegistry.kt      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Unknown Project          2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+MachineRegistry.kt       2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+minecraft-mcp            2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+BookSaleManager          2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+MetaStore.kt             2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 
 💻 Operating System: 
-Linux                    23 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 3 mins (85.27%)
+⏱ AI Coding Time: 17 hrs 11 mins (83.23%)
 
-✍️ 48 lines written by AI, 796 lines written by hand (5.69% AI-written)
+✍️ 48 lines written by AI, 799 lines written by hand (5.67% AI-written)
 
-🔤 495,577,501 Input Tokens, 2,274,650 Output Tokens
+🔤 403,988,149 Input Tokens, 1,608,830 Output Tokens
 
-💵 $3496.44 Estimated AI Cost This Week
+💵 $2826.34 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 95 AI Prompts
+🧠 26 AI Sessions, 82 AI Prompts
 
-Gemini                   60 lines            █████████████████████████   100.00 % 
+Gemini                   48 lines            █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.69% of written lines came from AI
-📝 Concise Prompter — average 169 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.67% of written lines came from AI
+📝 Concise Prompter — average 166 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 94.17% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -152,5 +152,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:59:03 UTC
+ Last Updated on 24/08/2026 19:11:14 UTC
 <!--END_SECTION:waka-->
