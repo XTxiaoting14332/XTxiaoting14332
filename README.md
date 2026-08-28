@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 50.3 kB Used in GitHub's Storage 
+> 📦 50.4 kB Used in GitHub's Storage 
  > 
 > 🏆 192 Contributions in the Year 2026
  > 
@@ -85,41 +85,38 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 42 mins      ████████████████████░░░░░   79.94 % 
-Kotlin                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-git ignore               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    10 hrs 2 mins       █████████████████████░░░░   83.96 % 
+Kotlin                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 45 mins       ██████████████████░░░░░░░   72.89 % 
-Antigravity Desktop      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Antigravity CLI          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+IntelliJ IDEA            9 hrs 20 mins       ████████████████████░░░░░   78.11 % 
+Antigravity Desktop      2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-Zobyic-Tech              3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-MachineRegistry.kt       2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-MetaStore.kt             2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-MaterialRegistry.kt      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-ItemManager.kt           1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Zobyic-Tech              3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+MachineRegistry.kt       2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+MetaStore.kt             2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+MaterialRegistry.kt      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+ItemManager.kt           1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 
 💻 Operating System: 
-Linux                    13 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 37 mins (94.26%)
+⏱ AI Coding Time: 11 hrs 45 mins (98.38%)
 
-✍️ 0 lines written by AI, 37 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
 
 🔤 266,399,121 Input Tokens, 992,630 Output Tokens
 
 💵 $1601.60 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 42 AI Prompts
+🧠 6 AI Sessions, 29 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -127,7 +124,7 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
+📝 Concise Prompter — average 298 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -149,5 +146,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:40:02 UTC
+ Last Updated on 28/08/2026 02:17:52 UTC
 <!--END_SECTION:waka-->
