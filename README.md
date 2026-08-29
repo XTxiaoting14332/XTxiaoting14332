@@ -85,38 +85,36 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 2 mins       █████████████████████░░░░   83.96 % 
-Kotlin                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    3 hrs 8 mins        ████████████████░░░░░░░░░   64.77 % 
+Kotlin                   1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 20 mins       ████████████████████░░░░░   78.11 % 
-Antigravity Desktop      2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Antigravity Desktop      2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.67 % 
+IntelliJ IDEA            2 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.15 % 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-Zobyic-Tech              3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-MachineRegistry.kt       2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-MetaStore.kt             2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-MaterialRegistry.kt      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-ItemManager.kt           1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Zobyic-Tech              2 hrs 49 mins       ██████████████░░░░░░░░░░░   57.99 % 
+MachineRegistry.kt       2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.96 % 
+profile-page             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    11 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 45 mins (98.38%)
+⏱ AI Coding Time: 4 hrs 42 mins (96.71%)
 
 ✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
 
-🔤 266,399,121 Input Tokens, 992,630 Output Tokens
+🔤 71,588,976 Input Tokens, 143,379 Output Tokens
 
-💵 $1601.60 Estimated AI Cost This Week
+💵 $431.15 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 29 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -125,7 +123,7 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 298 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -146,5 +144,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:51:14 UTC
+ Last Updated on 29/08/2026 21:05:52 UTC
 <!--END_SECTION:waka-->
