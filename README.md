@@ -38,19 +38,19 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-403.43%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-403.56%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.4 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2026
+> 🏆 197 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-🌆 Daytime                443 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
-🌃 Evening                437 commits         █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌞 Morning                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                447 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌃 Evening                437 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Thursday                 108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Friday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Saturday                 227 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Sunday                   386 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Monday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Thursday                 108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Friday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Saturday                 227 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Sunday                   386 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
 ```
 
 
@@ -85,38 +85,39 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 5 mins       ███████████████████████░░   92.34 % 
-Kotlin                   1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    25 hrs 30 mins      ████████████████████████░   95.27 % 
+Kotlin                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Zed                      23 hrs 11 mins      █████████████████████░░░░   85.38 % 
-Antigravity Desktop      3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Zed                      23 hrs 11 mins      ██████████████████████░░░   86.64 % 
+Antigravity Desktop      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+IntelliJ IDEA            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 23 hrs 11 mins      █████████████████████░░░░   85.36 % 
-Zobyic-Tech              2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-bybit-bot                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-nonebot-plugin-nightwind 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-scratch                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+ai-proxy                 23 hrs 11 mins      ██████████████████████░░░   86.64 % 
+Zobyic-Tech              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Book.java                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+bybit-bot                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+profile-page             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Linux                    27 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs (99.41%)
+⏱ AI Coding Time: 26 hrs 36 mins (99.41%)
 
 ✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
-🔤 487,476,997 Input Tokens, 886,488 Output Tokens
+🔤 500,492,165 Input Tokens, 951,053 Output Tokens
 
-💵 $2820.09 Estimated AI Cost This Week
+💵 $2897.84 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 45 AI Prompts
+🧠 25 AI Sessions, 34 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -125,8 +126,8 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 245 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 316 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -147,5 +148,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:25:07 UTC
+ Last Updated on 31/08/2026 23:00:11 UTC
 <!--END_SECTION:waka-->
