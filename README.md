@@ -38,9 +38,9 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,50 +85,49 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 30 mins      ████████████████████████░   95.27 % 
-Kotlin                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    27 hrs 15 mins      █████████████████████████   99.00 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Zed                      23 hrs 11 mins      ██████████████████████░░░   86.64 % 
-Antigravity Desktop      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-IntelliJ IDEA            1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Zed                      25 hrs 21 mins      ███████████████████████░░   92.09 % 
+Antigravity Desktop      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+IntelliJ IDEA            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 23 hrs 11 mins      ██████████████████████░░░   86.64 % 
-Zobyic-Tech              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Book.java                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-bybit-bot                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-profile-page             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+ai-proxy                 23 hrs 11 mins      █████████████████████░░░░   84.23 % 
+index.html               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Book.java                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+bybit-bot                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+profile-page             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Linux                    26 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 36 mins (99.41%)
+⏱ AI Coding Time: 27 hrs 32 mins (100.0%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 500,492,165 Input Tokens, 951,053 Output Tokens
+🔤 544,592,101 Input Tokens, 1,145,833 Output Tokens
 
-💵 $2897.84 Estimated AI Cost This Week
+💵 $3161.56 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 34 AI Prompts
+🧠 26 AI Sessions, 20 AI Prompts
 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 125 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -148,5 +147,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 23:00:11 UTC
+ Last Updated on 01/09/2026 21:15:11 UTC
 <!--END_SECTION:waka-->
