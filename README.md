@@ -85,44 +85,44 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 34 mins      █████████████████████░░░░   85.90 % 
-Java                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    11 hrs 51 mins      █████████████████████░░░░   83.21 % 
+Java                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Zed                      11 hrs 31 mins      █████████████████░░░░░░░░   67.95 % 
-IntelliJ IDEA            3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Antigravity Desktop      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Zed                      8 hrs 48 mins       ███████████████░░░░░░░░░░   61.83 % 
+IntelliJ IDEA            3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Antigravity Desktop      2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Antigravity CLI          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 9 hrs 22 mins       ██████████████░░░░░░░░░░░   55.19 % 
-index.html               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-BookSaleManager          1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Book.java                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-cat-assassin             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+ai-proxy                 6 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.65 % 
+index.html               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+BookSaleManager          1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Book.java                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+cat-assassin             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 💻 Operating System: 
-Linux                    16 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (97.73%)
+⏱ AI Coding Time: 13 hrs 52 mins (97.3%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 269,292,909 Input Tokens, 660,408 Output Tokens
+🔤 185,376,613 Input Tokens, 572,519 Output Tokens
 
-💵 $1675.53 Estimated AI Cost This Week
+💵 $1221.04 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 47 AI Prompts
+🧠 19 AI Sessions, 47 AI Prompts
 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -150,5 +150,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:57:55 UTC
+ Last Updated on 05/09/2026 20:37:32 UTC
 <!--END_SECTION:waka-->
