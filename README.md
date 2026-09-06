@@ -85,51 +85,51 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 51 mins      █████████████████████░░░░   83.21 % 
-Java                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    18 hrs 38 mins      ██████████████████████░░░   86.22 % 
+Java                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Zed                      8 hrs 48 mins       ███████████████░░░░░░░░░░   61.83 % 
-IntelliJ IDEA            3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Antigravity Desktop      2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Antigravity CLI          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Zed                      9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
+Antigravity Desktop      8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
+IntelliJ IDEA            3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Antigravity CLI          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 6 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-index.html               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-BookSaleManager          1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Book.java                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-cat-assassin             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+cat-assassin             7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
+index.html               4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+ai-proxy                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+BookSaleManager          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+zcode-会话导出-bybit-bot-理解当前1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-Linux                    14 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 52 mins (97.3%)
+⏱ AI Coding Time: 21 hrs 3 mins (97.36%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 185,376,613 Input Tokens, 572,519 Output Tokens
+🔤 189,281,280 Input Tokens, 783,747 Output Tokens
 
-💵 $1221.04 Estimated AI Cost This Week
+💵 $1125.02 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 47 AI Prompts
+🧠 23 AI Sessions, 126 AI Prompts
 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 47 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -150,5 +150,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:37:32 UTC
+ Last Updated on 06/09/2026 20:42:58 UTC
 <!--END_SECTION:waka-->
