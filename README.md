@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,51 +85,51 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 38 mins      ██████████████████████░░░   86.22 % 
-Java                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    14 hrs 47 mins      █████████████████████░░░░   83.74 % 
+Java                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Zed                      9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
-Antigravity Desktop      8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
-IntelliJ IDEA            3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Antigravity CLI          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Antigravity Desktop      8 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.60 % 
+Zed                      6 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
+IntelliJ IDEA            2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Antigravity CLI          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-cat-assassin             7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
-index.html               4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-ai-proxy                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-BookSaleManager          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-zcode-会话导出-bybit-bot-理解当前1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+cat-assassin             7 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
+ai-proxy                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+index.html               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+BookSaleManager          1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+zcode-会话导出-bybit-bot-理解当前1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Linux                    21 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 3 mins (97.36%)
+⏱ AI Coding Time: 17 hrs 9 mins (97.14%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 189,281,280 Input Tokens, 783,747 Output Tokens
+🔤 121,906,794 Input Tokens, 506,281 Output Tokens
 
-💵 $1125.02 Estimated AI Cost This Week
+💵 $723.55 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 126 AI Prompts
+🧠 18 AI Sessions, 121 AI Prompts
 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 48 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -150,5 +150,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:42:58 UTC
+ Last Updated on 07/09/2026 21:43:57 UTC
 <!--END_SECTION:waka-->
