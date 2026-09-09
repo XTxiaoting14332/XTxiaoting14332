@@ -85,41 +85,39 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 52 mins       ██████████████████░░░░░░░   73.36 % 
-Java                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    5 hrs 17 mins       ████████████████████░░░░░   79.26 % 
+Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Java                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Zed                      4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
-Antigravity Desktop      3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-IntelliJ IDEA            2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Antigravity CLI          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Zed                      3 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.14 % 
+Antigravity Desktop      2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+IntelliJ IDEA            1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-cat-assassin             2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-BookSaleManager          1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-zcode-会话导出-bybit-bot-理解当前1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-model-train              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+ai-proxy                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
+cat-assassin             1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+zcode-会话导出-bybit-bot-理解当前1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+model-train              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+BookManager.java         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 💻 Operating System: 
-Linux                    10 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 14 mins (95.44%)
+⏱ AI Coding Time: 6 hrs 19 mins (94.69%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 77,806,858 Input Tokens, 311,501 Output Tokens
+🔤 67,868,399 Input Tokens, 210,936 Output Tokens
 
-💵 $459.82 Estimated AI Cost This Week
+💵 $400.93 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 62 AI Prompts
+🧠 11 AI Sessions, 19 AI Prompts
 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -128,8 +126,8 @@ Spark                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -150,5 +148,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:20:54 UTC
+ Last Updated on 09/09/2026 21:07:04 UTC
 <!--END_SECTION:waka-->
