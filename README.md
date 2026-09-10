@@ -44,7 +44,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-403.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397.91%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-🌆 Daytime                447 commits         █████████░░░░░░░░░░░░░░░░   36.58 % 
-🌃 Evening                438 commits         █████████░░░░░░░░░░░░░░░░   35.84 % 
-🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌆 Daytime                428 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌃 Evening                424 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Thursday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Friday                   104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Saturday                 227 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Sunday                   386 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Monday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Thursday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Saturday                 215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Sunday                   383 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
 ```
 
 
@@ -85,60 +85,51 @@ Sunday                   386 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 17 mins       ████████████████████░░░░░   79.26 % 
-Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Java                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    46 mins             █████████████████████████   98.95 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Zed                      3 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.14 % 
-Antigravity Desktop      2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
-IntelliJ IDEA            1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Zed                      47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-proxy                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-cat-assassin             1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-zcode-会话导出-bybit-bot-理解当前1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-model-train              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-BookManager.java         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+zcode-会话导出-bybit-bot-理解当前46 mins             █████████████████████████   98.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 19 mins (94.69%)
+⏱ AI Coding Time: 47 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 67,868,399 Input Tokens, 210,936 Output Tokens
+🔤 8,178,889 Input Tokens, 66,633 Output Tokens
 
-💵 $400.93 Estimated AI Cost This Week
+💵 $62.43 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 19 AI Prompts
+🧠 6 AI Sessions, 0 AI Prompts
 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Dart                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Shell                    7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Dart                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Shell                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 
@@ -148,5 +139,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:07:04 UTC
+ Last Updated on 10/09/2026 21:06:54 UTC
 <!--END_SECTION:waka-->
