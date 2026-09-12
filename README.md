@@ -85,32 +85,32 @@ Sunday                   383 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    46 mins             █████████████████████████   98.95 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    26 mins             █████████████████████████   98.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Zed                      47 mins             █████████████████████████   100.00 % 
+Zed                      27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zcode-会话导出-bybit-bot-理解当前46 mins             █████████████████████████   98.95 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+zcode-会话导出-bybit-bot-理解当前26 mins             █████████████████████████   98.16 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (100.0%)
+⏱ AI Coding Time: 27 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 8,178,889 Input Tokens, 66,633 Output Tokens
+🔤 4,586,717 Input Tokens, 39,323 Output Tokens
 
-💵 $62.43 Estimated AI Cost This Week
+💵 $41.87 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -139,5 +139,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:11:07 UTC
+ Last Updated on 12/09/2026 20:49:39 UTC
 <!--END_SECTION:waka-->
