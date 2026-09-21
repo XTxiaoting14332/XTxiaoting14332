@@ -85,16 +85,17 @@ Sunday                   383 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 mins              █████████████████████░░░░   85.55 % 
+Python                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EasyMai                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +121,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:01:32 UTC
+ Last Updated on 21/09/2026 22:08:47 UTC
 <!--END_SECTION:waka-->
