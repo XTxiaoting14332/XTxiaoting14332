@@ -44,7 +44,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-421.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-🌆 Daytime                450 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
-🌃 Evening                463 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
-🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+🌆 Daytime                464 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                477 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Saturday                 234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   383 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Thursday                 139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Saturday                 234 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Sunday                   383 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
 ```
 
 
@@ -85,23 +85,42 @@ Sunday                   383 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████░░░░   85.55 % 
-Python                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Dart                     18 mins             ████████████████░░░░░░░░░   63.90 % 
+Markdown                 8 mins              ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-Zed                      10 mins             █████████████████████████   100.00 % 
+Zed                      28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EasyMai                  10 mins             █████████████████████████   100.00 % 
+bybit-bot                18 mins             ████████████████░░░░░░░░░   63.90 % 
+EasyMai                  10 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (63.9%)
+
+✍️ 41 lines written by AI, 23 lines written by hand (64.06% AI-written)
+
+🔤 368,486 Input Tokens, 13,100 Output Tokens
+
+💵 $56.01 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+ZCode                    41 lines            █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 64.06% of written lines came from AI
+📝 Concise Prompter — average 12 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 54.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,5 +140,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:43:50 UTC
+ Last Updated on 25/09/2026 21:47:00 UTC
 <!--END_SECTION:waka-->
