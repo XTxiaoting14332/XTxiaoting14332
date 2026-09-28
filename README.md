@@ -38,13 +38,13 @@
 ### Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-441.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                485 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌃 Evening                498 commits         █████████░░░░░░░░░░░░░░░░   37.78 % 
-🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+🌆 Daytime                492 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                505 commits         █████████░░░░░░░░░░░░░░░░   37.91 % 
+🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Thursday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Friday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Sunday                   383 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Thursday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Sunday                   383 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
 ```
 
 
@@ -85,25 +85,22 @@ Sunday                   383 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 mins              ██████████░░░░░░░░░░░░░░░   39.89 % 
-Kotlin                   8 mins              █████████░░░░░░░░░░░░░░░░   36.44 % 
-Java                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Kotlin                   8 mins              █████████████████░░░░░░░░   68.27 % 
+Java                     3 mins              ████████░░░░░░░░░░░░░░░░░   31.43 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████░░░░░░░░░░░░   53.38 % 
-Zed                      10 mins             ████████████░░░░░░░░░░░░░   46.62 % 
+IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EasyMai                  10 mins             ████████████░░░░░░░░░░░░░   46.62 % 
-Zobyic-Tech              8 mins              █████████░░░░░░░░░░░░░░░░   35.97 % 
-yzdc                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Zobyic-RPG-Rebuild       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Zobyic-Tech              8 mins              █████████████████░░░░░░░░   67.39 % 
+yzdc                     3 mins              ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Zobyic-RPG-Rebuild       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,5 +126,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:32:46 UTC
+ Last Updated on 28/09/2026 23:28:06 UTC
 <!--END_SECTION:waka-->
