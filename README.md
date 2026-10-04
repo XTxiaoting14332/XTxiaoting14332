@@ -44,13 +44,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-470.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-477.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.7 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2026
+> 🏆 202 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-🌆 Daytime                534 commits         █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                547 commits         ██████████░░░░░░░░░░░░░░░   38.63 % 
-🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+🌆 Daytime                543 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                574 commits         ██████████░░░░░░░░░░░░░░░   39.50 % 
+🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Thursday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Friday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Sunday                   383 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Monday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Sunday                   385 commits         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
 ```
 
 
@@ -85,22 +85,16 @@ Sunday                   383 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   8 mins              █████████████████░░░░░░░░   68.27 % 
-Java                     3 mins              ████████░░░░░░░░░░░░░░░░░   31.43 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
+Zed                      0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zobyic-Tech              8 mins              █████████████████░░░░░░░░   67.39 % 
-yzdc                     3 mins              ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Zobyic-RPG-Rebuild       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+EasyMai                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,5 +120,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:41:43 UTC
+ Last Updated on 04/10/2026 21:51:04 UTC
 <!--END_SECTION:waka-->
