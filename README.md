@@ -44,7 +44,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-497.09%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-🌆 Daytime                572 commits         █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                609 commits         ██████████░░░░░░░░░░░░░░░   40.15 % 
-🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+🌆 Daytime                584 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
+🌃 Evening                621 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Tuesday                  128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Sunday                   385 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Monday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Tuesday                  128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Thursday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Sunday                   385 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
 ```
 
 
@@ -85,48 +85,50 @@ Sunday                   385 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               13 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-HTML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+XML                      2 hrs 4 mins        ██████████████████░░░░░░░   73.77 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-Zed                      31 mins             ██████████████████░░░░░░░   72.39 % 
-Claude Code              11 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Antigravity Desktop      2 hrs 5 mins        ███████████████████░░░░░░   74.38 % 
+Zed                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-fake-ai-api              30 mins             ██████████████████░░░░░░░   71.15 % 
-nightwind                11 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-EasyMai                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Zobyic-Tech              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Zobyic-VaultHunter       2 hrs 4 mins        ██████████████████░░░░░░░   73.77 % 
+fake-ai-api              30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+nightwind                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+EasyMai                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (27.37%)
+⏱ AI Coding Time: 2 hrs 17 mins (81.4%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 530 lines written by AI, 8 lines written by hand (98.51% AI-written)
 
-🔤 314,540 Input Tokens, 2,289 Output Tokens
+🔤 1,511,309 Input Tokens, 72,684 Output Tokens
 
-💵 $3.26 Estimated AI Cost This Week
+💵 $6.46 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 17 AI Prompts
+🧠 6 AI Sessions, 34 AI Prompts
 
+Gemini                   530 lines           █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 5 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.51% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,5 +148,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:51:31 UTC
+ Last Updated on 10/10/2026 21:58:32 UTC
 <!--END_SECTION:waka-->
