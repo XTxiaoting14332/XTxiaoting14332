@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -85,47 +85,47 @@ Sunday                   385 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     5 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.91 % 
-Other                    3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Java                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    3 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.82 % 
+JSON                     1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Java                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 🔥 Editors: 
-Antigravity Desktop      7 hrs 59 mins       ██████████████████░░░░░░░   72.27 % 
-IntelliJ IDEA            2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Zed                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Antigravity Desktop      4 hrs 5 mins        ███████████████░░░░░░░░░░   58.77 % 
+IntelliJ IDEA            2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.47 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-zobyic-wiki              7 hrs 12 mins       ████████████████░░░░░░░░░   65.26 % 
-nonebot-plugin-nightwind 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Zobyic-VaultHunter       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-story                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+zobyic-wiki              3 hrs 34 mins       █████████████░░░░░░░░░░░░   51.28 % 
+nonebot-plugin-nightwind 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Zobyic-VaultHunter       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+story                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Linux                    11 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 48 mins (97.78%)
+⏱ AI Coding Time: 6 hrs 47 mins (97.35%)
 
-✍️ 493 lines written by AI, 557 lines written by hand (46.95% AI-written)
+✍️ 299 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,840,057 Input Tokens, 300,764 Output Tokens
+🔤 476,592 Input Tokens, 72,453 Output Tokens
 
-💵 $9.29 Estimated AI Cost This Week
+💵 $1.82 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 77 AI Prompts
+🧠 9 AI Sessions, 46 AI Prompts
 
-Gemini                   493 lines           █████████████████████████   100.00 % 
+Gemini                   299 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.95% of written lines came from AI
-📝 Concise Prompter — average 69 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 53.05% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -145,5 +145,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 21:01:06 UTC
+ Last Updated on 19/10/2026 22:37:58 UTC
 <!--END_SECTION:waka-->
