@@ -85,32 +85,30 @@ Sunday                   385 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 1 min         ████████████████████░░░░░   80.77 % 
-Text                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    7 hrs 20 mins       ████████████████████░░░░░   81.74 % 
+Text                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 1 min         ████████████████████░░░░░   80.83 % 
-Zed                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Antigravity Desktop      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+IntelliJ IDEA            7 hrs 20 mins       ████████████████████░░░░░   81.74 % 
+Zed                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 
 🐱‍💻 Projects: 
-AffixEngine.java         4 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.48 % 
-nonebot-plugin-nightwind 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-xiaoyefeng_blockbench    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-zobyic-wiki              1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Zobyic-VaultHunter       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+AffixEngine.java         4 hrs 48 mins       █████████████░░░░░░░░░░░░   53.57 % 
+nonebot-plugin-nightwind 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+xiaoyefeng_blockbench    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+zobyic-wiki              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Zobyic-Tech              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 55 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 59 mins (100.0%)
 
 ✍️ 422 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -118,14 +116,14 @@ Linux                    9 hrs 55 mins       ███████████�
 
 💵 $10.19 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 71 AI Prompts
+🧠 5 AI Sessions, 64 AI Prompts
 
 Gemini                   422 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 52 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -146,5 +144,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:38:51 UTC
+ Last Updated on 24/10/2026 21:09:03 UTC
 <!--END_SECTION:waka-->
