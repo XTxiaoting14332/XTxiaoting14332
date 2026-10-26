@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,28 +85,29 @@ Sunday                   385 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       █████████████████████████   99.98 % 
+Other                    7 hrs 16 mins       █████████████████████████   99.99 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 23 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 23 mins       ███████████████████░░░░░░   74.14 % 
+Zed                      1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
 
 🐱‍💻 Projects: 
-AffixEngine.java         4 hrs 48 mins       ██████████████████████░░░   89.36 % 
-zobyic-wiki              34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+AffixEngine.java         4 hrs 48 mins       █████████████████░░░░░░░░   66.25 % 
+webui                    1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+zobyic-wiki              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 Zobyic-Tech              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Zobyic-VaultHunter       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (99.99%)
+⏱ AI Coding Time: 7 hrs 16 mins (99.99%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -114,7 +115,7 @@ Linux                    5 hrs 23 mins       ███████████�
 
 💵 $0.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 37 AI Prompts
+🧠 4 AI Sessions, 49 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -142,5 +143,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:10:34 UTC
+ Last Updated on 26/10/2026 22:53:53 UTC
 <!--END_SECTION:waka-->
