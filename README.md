@@ -42,15 +42,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-814.85%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-815.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 102.9 kB Used in GitHub's Storage 
+> 📦 103.3 kB Used in GitHub's Storage 
  > 
-> 🏆 415 Contributions in the Year 2026
+> 🏆 438 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                1883 commits        ████████████░░░░░░░░░░░░░   48.83 % 
-🌃 Evening                1133 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌙 Night                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌞 Morning                504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   48.57 % 
+🌃 Evening                1133 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌙 Night                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   973 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-Tuesday                  1123 commits        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Thursday                 355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Friday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Saturday                 280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Sunday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Monday                   973 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Tuesday                  1123 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Friday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Saturday                 280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Sunday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 
 
@@ -85,29 +85,25 @@ Sunday                   385 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 38 mins       ████████████████████████░   97.36 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    2 hrs 8 mins        █████████████████████████   99.98 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Zed                      2 hrs 8 mins        ████████████████████░░░░░   78.72 % 
-VS Code                  30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-IntelliJ IDEA            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Zed                      2 hrs 8 mins        █████████████████████████   99.98 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-webui                    2 hrs 8 mins        ████████████████████░░░░░   78.72 % 
-zobyic-wiki              30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Zobyic-VaultHunter       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+webui                    2 hrs 8 mins        █████████████████████████   99.98 % 
 Zobyic-Tech              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (97.36%)
+⏱ AI Coding Time: 2 hrs 8 mins (99.98%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -115,13 +111,13 @@ Linux                    2 hrs 43 mins       ███████████�
 
 💵 $0.03 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
+📝 Concise Prompter — average 52 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -143,5 +139,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:49:48 UTC
+ Last Updated on 29/10/2026 22:59:10 UTC
 <!--END_SECTION:waka-->
