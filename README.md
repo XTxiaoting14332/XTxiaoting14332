@@ -44,11 +44,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-815.07%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-824.81%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 103.3 kB Used in GitHub's Storage 
+> 📦 103.4 kB Used in GitHub's Storage 
  > 
 > 🏆 438 Contributions in the Year 2026
  > 
@@ -61,21 +61,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-🌆 Daytime                1884 commits        ████████████░░░░░░░░░░░░░   48.57 % 
-🌃 Evening                1133 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-🌙 Night                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+🌞 Morning                504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                1898 commits        ████████████░░░░░░░░░░░░░   48.58 % 
+🌃 Evening                1147 commits        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+🌙 Night                  358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   973 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Tuesday                  1123 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Thursday                 378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Friday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Saturday                 280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Sunday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Monday                   973 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Tuesday                  1123 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Thursday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Friday                   348 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Saturday                 280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Sunday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 
 
@@ -85,16 +85,13 @@ Sunday                   385 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 8 mins        █████████████████████████   99.98 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zed                      2 hrs 8 mins        █████████████████████████   99.98 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Zed                      2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webui                    2 hrs 8 mins        █████████████████████████   99.98 % 
-Zobyic-Tech              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+webui                    2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
@@ -103,7 +100,7 @@ Linux                    2 hrs 8 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (99.98%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -139,5 +136,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XTxiaoting14332/XTxiaoting14332/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:59:10 UTC
+ Last Updated on 30/10/2026 22:38:48 UTC
 <!--END_SECTION:waka-->
